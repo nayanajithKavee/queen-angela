@@ -73,7 +73,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 
 ## DRIPS MEMES
     
-### ⚠ Warning ⚠
+### ⚠ Warning 👀
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
